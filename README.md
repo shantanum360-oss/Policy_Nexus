@@ -59,9 +59,6 @@ Performed:
 * Matplotlib
 * Jupyter Notebook
 
-## Repository Structure
-
-
 
 ## Key Analyses
 
