@@ -61,37 +61,7 @@ Performed:
 
 ## Repository Structure
 
-```text
-Policy-Nexus/
-│
-├── README.md
-│
-├── Data/
-│   ├── raw_data/
-│   └── processed_data/
-│
-├── Notebooks/
-│   ├── data_preprocessing.ipynb
-│   ├── econometric_analysis.ipynb
-│   └── ml_analysis.ipynb
-│
-├── Scripts/
-│   ├── preprocessing.py
-│   ├── ols_regression.py
-│   ├── difference_in_differences.py
-│   └── decision_tree_model.py
-│
-├── Figures/
-│   ├── descriptive_statistics.png
-│   ├── did_results.png
-│   └── vulnerability_profile.png
-│
-├── Reports/
-│   ├── policy_brief.pdf
-│   └── presentation_deck.pdf
-│
-└── future_work.md
-```
+
 
 ## Key Analyses
 
